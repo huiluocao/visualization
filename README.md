@@ -16,3 +16,9 @@ Patchwork is a package for composing plots, i.e. placing multiple plots together
 https://patchwork.data-imaginist.com/index.html
 
 https://www.data-imaginist.com/2019/patch-it-up-and-send-it-out/
+
+
+http://userweb.eng.gla.ac.uk/umer.ijaz/#bioinformatics
+
+
+https://github.com/umerijaz/microbiomeSeq
