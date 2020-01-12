@@ -8,6 +8,9 @@ ggthemes:
 
 https://mran.microsoft.com/snapshot/2017-02-04/web/packages/ggthemes/vignettes/ggthemes.html
 
+heatmap:
+
+https://www.datanovia.com/en/lessons/heatmap-in-r-static-and-interactive-visualization/
 
 Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2:
 
