@@ -4,6 +4,11 @@ codes for visualisation
 R: 
 https://www.r-graph-gallery.com/index.html
 
+ggthemes:
+
+https://mran.microsoft.com/snapshot/2017-02-04/web/packages/ggthemes/vignettes/ggthemes.html
+
+
 Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2:
 
 https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html
