@@ -31,6 +31,6 @@ http://userweb.eng.gla.ac.uk/umer.ijaz/#bioinformatics
 
 https://github.com/umerijaz/microbiomeSeq
 
-~~~~~~~~~~Very good tutorial of visualization~~~~~~~~~~~~
+------Very good tutorial of visualization-----------
 https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
 
