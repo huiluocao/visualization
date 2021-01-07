@@ -12,6 +12,8 @@ heatmap:
 
 https://www.datanovia.com/en/lessons/heatmap-in-r-static-and-interactive-visualization/
 
+ComplexHeatmap-manul: https://jokergoo.github.io/ComplexHeatmap-reference/book/
+
 Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2:
 
 https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html
