@@ -10,3 +10,7 @@ http://www.vesnam.com/Rblog/viznets1/
 
 Network visualization – part 2: Gephi
 http://www.vesnam.com/Rblog/viznets2/
+
+
+Network visualization – part 3: Hive plots
+http://www.vesnam.com/Rblog/viznets3/
