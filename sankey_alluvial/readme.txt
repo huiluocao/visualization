@@ -3,5 +3,7 @@ A Sankey diagram visualizes the proportional flow between variables (or nodes) w
 
 https://stackoverflow.com/questions/46357074/how-to-customize-node-edge-position-in-sankeynetwork-using-r
 
+https://stackoverflow.com/questions/65392700/preserve-custom-node-placement-of-a-sankeynetwork-networkd3-in-r
+
 jcvi to make sankey
 https://github.com/tanghaibao/jcvi
