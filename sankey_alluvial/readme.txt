@@ -5,5 +5,8 @@ https://stackoverflow.com/questions/46357074/how-to-customize-node-edge-position
 
 https://stackoverflow.com/questions/65392700/preserve-custom-node-placement-of-a-sankeynetwork-networkd3-in-r
 
+https://stackoverflow.com/questions/48459033/sankey-network-manual-colour-change
+
+
 jcvi to make sankey
 https://github.com/tanghaibao/jcvi
