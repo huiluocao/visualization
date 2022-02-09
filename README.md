@@ -51,3 +51,6 @@ https://github.com/umerijaz/microbiomeSeq
 
 https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
 
+Create curved text in ggplot2
+https://github.com/AllanCameron/geomtextpath
+
