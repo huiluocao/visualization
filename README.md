@@ -54,3 +54,6 @@ https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-pl
 Create curved text in ggplot2
 https://github.com/AllanCameron/geomtextpath
 
+
+ggplot2 text color
+https://cmdlinetips.com/2021/05/tips-to-customize-text-color-font-size-in-ggplot2-with-element_text/
