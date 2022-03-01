@@ -1,0 +1,3 @@
+https://cran.r-project.org/web/packages/ggridges/vignettes/gallery.html
+
+https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html
