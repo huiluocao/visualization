@@ -64,3 +64,6 @@ https://github.com/cxli233/ggpathway
 
 protocol of dataviz
 https://joachimgoedhart.github.io/DataViz-protocols/
+
+ggcoverage
+https://github.com/showteeth/ggcoverage
