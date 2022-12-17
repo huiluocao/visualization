@@ -66,4 +66,5 @@ protocol of dataviz
 https://joachimgoedhart.github.io/DataViz-protocols/
 
 ggcoverage
+ggcoverage - Visualize and annotate genome coverage with ggplot2
 https://github.com/showteeth/ggcoverage
