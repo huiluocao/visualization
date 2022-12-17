@@ -57,3 +57,6 @@ https://github.com/AllanCameron/geomtextpath
 
 ggplot2 text color
 https://cmdlinetips.com/2021/05/tips-to-customize-text-color-font-size-in-ggplot2-with-element_text/
+
+metabolic pathway visualization
+https://github.com/cxli233/ggpathway
