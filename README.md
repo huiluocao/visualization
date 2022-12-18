@@ -68,3 +68,6 @@ https://joachimgoedhart.github.io/DataViz-protocols/
 ggcoverage
 ggcoverage - Visualize and annotate genome coverage with ggplot2
 https://github.com/showteeth/ggcoverage
+
+ggdensity
+https://www.business-science.io/code-tools/2022/07/21/ggdensity-plot-high-density.html?utm_content=buffera4808&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
