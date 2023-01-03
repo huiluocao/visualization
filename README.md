@@ -71,3 +71,6 @@ https://github.com/showteeth/ggcoverage
 
 ggdensity
 https://www.business-science.io/code-tools/2022/07/21/ggdensity-plot-high-density.html?utm_content=buffera4808&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+ggdist
+https://www.business-science.io/r/2021/07/22/ggdist-raincloud-plots.html?utm_content=buffer4ad38&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
