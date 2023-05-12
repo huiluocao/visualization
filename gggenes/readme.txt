@@ -9,3 +9,6 @@ https://www.chiplot.online/gene_cluster.html
 
 https://bitbucket.org/genomicepidemiology/flankophile/src/master/
 Flankophile is a pipeline built for easy analysis and visualization of gene synteny - the genetic context of genes. Flankophile is especially useful for comparing the flanking regions of specific genes or other target sequences across different samples. Flankophile automaticly gene synteny plots in pdf format. Flankophile also outputs the percentage identity of each hit relative to its reference sequence.
+
+
+http://mjsull.github.io/Easyfig/
