@@ -8,3 +8,6 @@ https://github.com/legumeinfo/gcv
 
 
 https://moshi4.github.io/pyGenomeViz/
+
+
+https://github.com/cmdcolin/awesome-genome-visualization
