@@ -12,3 +12,6 @@ http://circos.ca/software/download/tutorials/
 
 6. shinyCircos
 https://github.com/venyao/shinyCircos
+
+7.OmicCircos
+https://bioconductor.org/packages/2.13/bioc/html/OmicCircos.html
