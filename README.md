@@ -1,6 +1,9 @@
 # visualization
 codes for visualisation
 
+The goal of linkET is to visualize simply and directly a matrix heatmap based on ‘ggplot2’. Note: all functions of network have been merged in netET package.
+https://github.com/Hy4m/linkET
+
 http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 
 
