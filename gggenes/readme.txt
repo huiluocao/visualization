@@ -12,3 +12,8 @@ Flankophile is a pipeline built for easy analysis and visualization of gene synt
 
 
 http://mjsull.github.io/Easyfig/
+
+
+Gene cluster comparison figure generator
+https://github.com/gamcil/clinker
+
