@@ -17,5 +17,5 @@ http://mjsull.github.io/Easyfig/
 Gene cluster comparison figure generator
 https://github.com/gamcil/clinker
 
-lovis4u：
+lovis4u：LoVis4u is a bioinformatics tool for Locus Visualisation.
 https://art-egorov.github.io/lovis4u/
