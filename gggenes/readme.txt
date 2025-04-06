@@ -22,3 +22,6 @@ https://art-egorov.github.io/lovis4u/
 
 gggenome
 https://github.com/thackl/gggenomes
+
+geneviewer
+https://nvelden.github.io/geneviewer/index.html
