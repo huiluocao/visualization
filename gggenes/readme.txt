@@ -1,7 +1,3 @@
-https://thackl.github.io/gggenomes/
-
-
-
 ‘gggenes’ is a (quite small) set of tools for drawing gene arrow maps with ‘ggplot2.’
 
 https://cran.r-project.org/web/packages/gggenes/vignettes/introduction-to-gggenes.html
@@ -26,6 +22,9 @@ https://art-egorov.github.io/lovis4u/
 
 gggenome
 https://github.com/thackl/gggenomes
+https://thackl.github.io/gggenomes/
+gggenomes is a versatile graphics package for comparative genomics. It extends the popular R visualization package ggplot2 by adding dedicated plot functions for genes, syntenic regions, etc. and verbs to manipulate the plot to, for example, quickly zoom in into gene neighborhoods.
+
 
 geneviewer
 https://nvelden.github.io/geneviewer/index.html
